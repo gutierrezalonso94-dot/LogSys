@@ -1,0 +1,19 @@
+{
+  "name": "logsys-website",
+  "version": "1.0.0",
+  "description": "Página web profesional de LogSys - Desarrollo de Software",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server",
+    "build": "echo 'Build successful'"
+  },
+  "keywords": [
+    "logsys",
+    "desarrollo",
+    "software",
+    "apps",
+    "web"
+  ],
+  "author": "gutierrezalonso94",
+  "license": "MIT"
+}
